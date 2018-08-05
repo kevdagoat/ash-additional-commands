@@ -8,7 +8,7 @@ systemctl will automatically index all services that exist in the /etc/init.d di
 ## To Install
 Run on Gateway command line:
 
-$ wget -P /tmp http://github.com/kevdagoat/tch-nginx-gui-LITE/blob/master/GUI-lite.tar.bz2?raw=true
+$ wget -P /tmp https://github.com/kevdagoat/ash-additional-commands/raw/master/install.sh
 
 If webget is not working for you, manually copy it over to the modem's /tmp directory using something like WinSCP.
 
