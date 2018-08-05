@@ -6,13 +6,8 @@ systemctl will automatically index all services that exist in the /etc/init.d di
 
 
 ## To Install
-Run on Gateway command line:
-
-$ wget -P /tmp http://github.com/kevdagoat/ash-additional-commands/raw/master/install.sh
-
-If webget is not working for you, manually copy the script over to the modem's /tmp directory using something like WinSCP.
-
-$ chmod 755 /tmp/install.sh
-
-$ /tmp/install.sh
-
+1. Copy files over to the modems /bin directory
+2. Run:
+  $ chmod 755 /bin/ledctl
+  $ chmod 755 /bin/systemctl
+3. Enjoy!  
