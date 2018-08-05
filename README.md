@@ -8,6 +8,5 @@ systemctl will automatically index all services that exist in the /etc/init.d di
 ## To Install
 1. Copy install.sh over to the modems /tmp directory (or wget it.)
 2. Run: chmod +x /tmp/install.sh
-
-    
-3. Enjoy!  
+3. Run: /tmp/install.sh
+4. Enjoy!  
