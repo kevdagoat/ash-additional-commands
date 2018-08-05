@@ -139,4 +139,6 @@ fi
 
 
 EOF
+chmod +x /bin/ledctl
+chmod +x /bin/systemctl
 echo "Install finished. To use commands run systemctl/ledctl -h"
