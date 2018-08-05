@@ -1,1 +1,1 @@
-# ash-additional commands
+# Technicolor ash shell additional commands.
