@@ -13,4 +13,4 @@ systemctl will automatically index all services that exist in the /etc/init.d di
 
 ### I am working on an install script.
 
-# Feel free to create a pull request if you have written any!
+## Feel free to create a pull request if you have written any!
