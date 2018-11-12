@@ -10,6 +10,9 @@ systemctl will automatically index all services that exist in the /etc/init.d di
 2. Run: chmod +x /bin/systemctl chmod +x /bin/ledctl
 4. Enjoy!  
 
+## Usage 
+systemctl help
+ledctl help
 
 ### I am working on an install script.
 
