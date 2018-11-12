@@ -7,7 +7,7 @@ systemctl will automatically index all services that exist in the /etc/init.d di
 
 ## To Install
 1. Copy the systemctl and ledctl files over to the /bin dir on your modem (or wget it.)
-2. Run: chmod +x /bin/systemcl chmod +x /bin/ledctl
+2. Run: chmod +x /bin/systemctl chmod +x /bin/ledctl
 4. Enjoy!  
 
 
